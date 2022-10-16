@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "d5b9f36e21d7a58a",
+    "type": "split",
+    "children": [
+      {
+        "id": "18517527a99f0d1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2b94c9cf8ea860e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "915ffd8b28c05f17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indexes/PeoplesAndLocations.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4feda78fa93c738d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1960d4296ca1107",
+        "type": "tabs",
+        "dimension": 65.97633136094674,
+        "children": [
+          {
+            "id": "b90e38dc4e71c8e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07da4f3e086f5567",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#weeklyplans",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67a049eba44e9a4b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "dae8d83b6a728b0a",
+        "type": "tabs",
+        "dimension": 34.023668639053255,
+        "children": [
+          {
+            "id": "f0d3356184e20aef",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df2d2983b32a458c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4570fdb165f5e5dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8345f614ffe3a89f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Indexes/PeoplesAndLocations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86dabfacc8ca61e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb2ea1b837420e0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Indexes/PeoplesAndLocations.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ebb9663b1742ea36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f195d01772cd016",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "915ffd8b28c05f17",
+  "lastOpenFiles": [
+    "Indexes/LessonNotes.md",
+    "Indexes/DailyNotes.md",
+    "_templates/PeoplesAndLocations.md",
+    "_templates/DailyNotes.md",
+    "_templates/Blogposts.md",
+    "_templates/LessonNotes/_webtasarim.md",
+    "_templates/LessonNotes/_rehberlik.md",
+    "_templates/LessonNotes/_programlamatemelleri.md",
+    "_templates/LessonNotes/_ofisyazilimlari.md",
+    "_templates/LessonNotes/_isg.md"
+  ]
+}

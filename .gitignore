@@ -1,0 +1,11 @@
+.trash
+
+Notes/*/*
+
+!**/.touch.md
+!Notes/*/*/.touch.md
+
+_templates/LessonNotes
+
+**.png
+**.jpg
