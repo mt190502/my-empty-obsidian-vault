@@ -1,0 +1,12 @@
+{
+  "foldIndent": true,
+  "foldHeading": false,
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "attachmentFolderPath": "_mediabin",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false
+}
