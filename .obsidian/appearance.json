@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Wasp",
+  "accentColor": "",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Samsung Sans",
+  "enabledCssSnippets": [
+    "centerlink",
+    "custom"
+  ]
+}

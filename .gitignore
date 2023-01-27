@@ -1,0 +1,17 @@
+.trash
+.tmp.driveupload
+.tmp.drivedownload
+
+Notes/**/.count
+Notes/**/**.md
+!Notes/**/.touch.md
+
+_templates/Blogposts.md
+_templates/Daily.md
+_templates/LessonNotes
+
+Indexes/LessonNotes.md
+Indexes/DailyNotes.md
+
+**.png
+**.jpg

@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "d5b9f36e21d7a58a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0ff92ef27f5812e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab1fb384f576ccb2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4feda78fa93c738d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1960d4296ca1107",
+        "type": "tabs",
+        "dimension": 67.9657794676806,
+        "children": [
+          {
+            "id": "b90e38dc4e71c8e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07da4f3e086f5567",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#moc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67a049eba44e9a4b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "cd52fd158b39a45b",
+        "type": "tabs",
+        "dimension": 32.03422053231939,
+        "children": [
+          {
+            "id": "f7c7119eea4e8053",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df2d2983b32a458c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4570fdb165f5e5dd",
+        "type": "tabs",
+        "dimension": 66.73003802281369,
+        "children": [
+          {
+            "id": "8345f614ffe3a89f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86dabfacc8ca61e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fa3a6e9e5cebd864",
+        "type": "tabs",
+        "dimension": 33.26996197718631,
+        "children": [
+          {
+            "id": "50e07f080a620346",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "97e487651e19398c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ab1fb384f576ccb2",
+  "lastOpenFiles": [
+    "Indexes/DailyNotes.md",
+    "Home.md",
+    "Notes/DailyNotes/Kanbans/Yapilacaklar Listesi.md",
+    "Notes/DailyNotes/Calendar/2022/12/08-December-Thursday.md",
+    "Indexes/080-LessonNotes.md",
+    "Notes/080-Lessons/_index/0801-AgTemelleri.md",
+    "_templates/080-Lessons/_agtemelleri.md",
+    "Notes/080-Lessons/Ag Temelleri (1)/Ders 3.md",
+    "Notes/080-Lessons/Ag Temelleri (1)/Ders 4.md",
+    "Indexes/070-DailyNotes.md"
+  ]
+}

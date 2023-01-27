@@ -1,0 +1,102 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "_templates",
+  "templates_pairs": [
+    [
+      "autoindex",
+      "python3 .autoindex.py"
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Notes/LessonNotes/Ag Temelleri (1)",
+      "template": "_templates/LessonNotes/_agtemelleri.md"
+    },
+    {
+      "folder": "Notes/LessonNotes/Ingilizce (1)",
+      "template": "_templates/LessonNotes/_ingilizce.md"
+    },
+    {
+      "folder": "Notes/LessonNotes/Inkilap Tarihi (1)",
+      "template": "_templates/LessonNotes/_inkilaptarihi.md"
+    },
+    {
+      "folder": "Notes/LessonNotes/Is Sagligi ve Guvenligi (1)",
+      "template": "_templates/LessonNotes/_isg.md"
+    },
+    {
+      "folder": "Notes/LessonNotes/Matematik (1)",
+      "template": "_templates/LessonNotes/_matematik.md"
+    },
+    {
+      "folder": "Notes/LessonNotes/Ofis Yazilimlari (1)",
+      "template": "_templates/LessonNotes/_ofisyazilimlari.md"
+    },
+    {
+      "folder": "Notes/LessonNotes/Programlama Temelleri (1)",
+      "template": "_templates/LessonNotes/_programlamatemelleri.md"
+    },
+    {
+      "folder": "Notes/LessonNotes/Rehberlik ve Danisma (1)",
+      "template": "_templates/LessonNotes/_rehberlik.md"
+    },
+    {
+      "folder": "Notes/LessonNotes/Turk Dili (1)",
+      "template": "_templates/LessonNotes/_turkdili.md"
+    },
+    {
+      "folder": "Notes/LessonNotes/Web Tasarim (1)",
+      "template": "_templates/LessonNotes/_webtasarim.md"
+    },
+    {
+      "folder": "Notes/DailyNotes/Calendar",
+      "template": "_templates/Calendar.md"
+    },
+    {
+      "folder": "Notes/DailyNotes/Daily",
+      "template": "_templates/Daily.md"
+    },
+    {
+      "folder": "Notes/PeoplesAndLocations",
+      "template": "_templates/PeoplesAndLocations.md"
+    },
+    {
+      "folder": "Notes/ProjectsAndIdeas",
+      "template": "_templates/ProjectsAndIdeas.md"
+    },
+    {
+      "folder": "Notes/Quotes",
+      "template": "_templates/Quotes.md"
+    },
+    {
+      "folder": "Notes/SelfImprovements",
+      "template": "_templates/SelfImprovements.md"
+    },
+    {
+      "folder": "Notes/SkillsAndCourses",
+      "template": "_templates/SkillsAndCourses.md"
+    },
+    {
+      "folder": "Notes/StandardNotes",
+      "template": "_templates/StandardNotes.md"
+    },
+    {
+      "folder": "Notes/WriteupsAndBlogposts/Writeups",
+      "template": "_templates/Writeups.md"
+    },
+    {
+      "folder": "Notes/WriteupsAndBlogposts/Blogposts",
+      "template": "_templates/Blogposts.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "enable_ribbon_icon": true
+}

@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "d5b9f36e21d7a58a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5e728ae5af3e7e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7b40dfac5d987ff",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4feda78fa93c738d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1960d4296ca1107",
+        "type": "tabs",
+        "dimension": 65.97633136094674,
+        "children": [
+          {
+            "id": "b90e38dc4e71c8e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07da4f3e086f5567",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67a049eba44e9a4b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "dae8d83b6a728b0a",
+        "type": "tabs",
+        "dimension": 34.023668639053255,
+        "children": [
+          {
+            "id": "f0d3356184e20aef",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "df2d2983b32a458c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4570fdb165f5e5dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8345f614ffe3a89f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86dabfacc8ca61e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb2ea1b837420e0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "33e3cebe9c02d9f4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ebb9663b1742ea36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f195d01772cd016",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5,
+    "collapsed": true
+  },
+  "active": "b7b40dfac5d987ff",
+  "lastOpenFiles": [
+    "Indexes/Quotes.md",
+    "Home.md",
+    "Indexes/SkillsAndCourses.md",
+    "Indexes/PeoplesAndLocations.md",
+    "Indexes/SelfImprovements.md",
+    "Indexes/LessonNotes.md",
+    "Notes/LessonNotes/_index/Ag Temelleri.md",
+    "Notes/LessonNotes/Ag Temelleri (1)/Hafta 3.md",
+    "Notes/LessonNotes/Ag Temelleri (1)/Hafta 4.md",
+    "Notes/LessonNotes/Ag Temelleri (1)/Hafta 5.md"
+  ]
+}

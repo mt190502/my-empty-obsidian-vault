@@ -1,0 +1,18 @@
+{
+  "foldIndent": true,
+  "foldHeading": false,
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "attachmentFolderPath": "_mediabin",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
+}

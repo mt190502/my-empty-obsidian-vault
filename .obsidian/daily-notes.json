@@ -1,0 +1,5 @@
+{
+  "format": "YYYY/MM/DD-MMMM-dddd",
+  "folder": "Notes/DailyNotes/Calendar",
+  "template": "_templates/Calendar"
+}
